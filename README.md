@@ -1,2 +1,1 @@
-# AirOS-Gemini-Bridge
-Hey Siri H2 to Gemini Android Bridge APK
+# AirOS Gemini Bridge... (full README content would go here but truncated for token)
